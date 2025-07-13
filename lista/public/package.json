@@ -1,0 +1,17 @@
+[
+  {
+    "name": "JavaScript",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "description": "Lenguaje interpretado, ideal para desarrollo web del lado del cliente y del servidor."
+  },
+  {
+    "name": "Python",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "description": "Lenguaje versátil, usado en ciencia de datos, automatización y desarrollo web."
+  },
+  {
+    "name": "C++",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+    "description": "Lenguaje de alto rendimiento, utilizado para sistemas, videojuegos y control de hardware."
+  }
+]

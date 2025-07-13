@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mercurio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg",
+    "masa": "3.30 × 10^23 kg",
+    "distancia_sol": "57.9 millones km",
+    "temperatura": "167 °C"
+  },
+  {
+    "id": 2,
+    "nombre": "Venus",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Venus-real_color.jpg",
+    "masa": "4.87 × 10^24 kg",
+    "distancia_sol": "108.2 millones km",
+    "temperatura": "464 °C"
+  },
+  {
+    "id": 3,
+    "nombre": "Tierra",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg",
+    "masa": "5.97 × 10^24 kg",
+    "distancia_sol": "149.6 millones km",
+    "temperatura": "15 °C"
+  }
+]

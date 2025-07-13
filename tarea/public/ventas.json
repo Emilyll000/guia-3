@@ -1,0 +1,36 @@
+[
+  {
+    "anio": 2025,
+    "ventas": [
+      { "mes": "Enero", "valor": 400 },
+      { "mes": "Febrero", "valor": 300 },
+      { "mes": "Marzo", "valor": 350 },
+      { "mes": "Abril", "valor": 500 },
+      { "mes": "Mayo", "valor": 450 },
+      { "mes": "Junio", "valor": 600 },
+      { "mes": "Julio", "valor": 0 },
+      { "mes": "Agosto", "valor": 0 },
+      { "mes": "Septiembre", "valor": 0 },
+      { "mes": "Octubre", "valor": 0 },
+      { "mes": "Noviembre", "valor": 0 },
+      { "mes": "Diciembre", "valor": 0 }
+    ]
+  },
+  {
+    "anio": 2024,
+    "ventas": [
+      { "mes": "Enero", "valor": 420 },
+      { "mes": "Febrero", "valor": 320 },
+      { "mes": "Marzo", "valor": 380 },
+      { "mes": "Abril", "valor": 510 },
+      { "mes": "Mayo", "valor": 460 },
+      { "mes": "Junio", "valor": 600 },
+      { "mes": "Julio", "valor": 230 },
+      { "mes": "Agosto", "valor": 430 },
+      { "mes": "Septiembre", "valor": 830 },
+      { "mes": "Octubre", "valor": 630 },
+      { "mes": "Noviembre", "valor": 330 },
+      { "mes": "Diciembre", "valor": 630 }
+    ]
+  }
+]

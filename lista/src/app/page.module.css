@@ -1,0 +1,62 @@
+.main {
+  background-color: #61dafb;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.form_input {
+  height: 40px;
+  width: 500px;
+  font-size: 20px;
+  border-radius: 5%;
+  padding: 5px;
+}
+
+.form_button {
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  height: 40px;
+  width: 500px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 4px;
+  padding: 0.5em 1em;
+  color: #ffffff;
+  background-color: darkgreen;
+  font-size: 18px;
+}
+
+.list {
+  display: flex;
+  margin: 5px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.btn_delete {
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: red;
+  height: 30px;
+  width: 30px;
+  font-weight: bold;
+  font-size: 16px;
+}
